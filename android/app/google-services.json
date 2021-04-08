@@ -1,0 +1,299 @@
+{
+  "project_info": {
+    "project_number": "154024393986",
+    "firebase_url": "https://melodic-rig-281709-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "melodic-rig-281709",
+    "storage_bucket": "melodic-rig-281709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:f8d54192277a59f786961b",
+        "android_client_info": {
+          "package_name": "com.codingmonk.allinonevideoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:21b8f2dce756cf1d86961b",
+        "android_client_info": {
+          "package_name": "com.dezeleven.food_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:d9fe42b7c851b6a386961b",
+        "android_client_info": {
+          "package_name": "com.example.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:60e6b659f4b7ca2b86961b",
+        "android_client_info": {
+          "package_name": "com.example.courseproductiion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:d1f5fc10235eee3486961b",
+        "android_client_info": {
+          "package_name": "com.example.courseproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:fcc3fc1502dd8a1886961b",
+        "android_client_info": {
+          "package_name": "com.foodmerchant.productioin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:309d7cf8435521d986961b",
+        "android_client_info": {
+          "package_name": "com.foodmerchant.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:62aada64cfd628b586961b",
+        "android_client_info": {
+          "package_name": "com.production.fooddelivery_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-ss25bfnm05vq9s51uedb7k10m6cgka2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
